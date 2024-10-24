@@ -1,4 +1,6 @@
 [![An image of @ayush1009208's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush1009208)](https://holopin.io/@ayush1009208)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=40&lines=I am a Batman fan:I love Listening to music:I watched The batman 6 times" alt="Typing SVG" /></a>
+
 - 👋 Hi, I’m @ayush1009208
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Golang
