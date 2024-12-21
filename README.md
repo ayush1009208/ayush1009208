@@ -41,7 +41,6 @@ Hi, I’m **@ayush1009208**  <br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ayush1009208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush1009208&theme=dark&hide_border=false)
 
 ---
