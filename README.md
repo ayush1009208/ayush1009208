@@ -9,8 +9,10 @@ Hi, I’m **@ayush1009208**  <br>
 📫 How to reach me: **ayush1009208@gmail.com**  
 
 ---
+<div align="center">
 
 # 💻 Tech Stack:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -38,14 +40,13 @@ Hi, I’m **@ayush1009208**  <br>
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush1009208&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush1009208&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=ayush1009208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayush1009208&theme=dark&hide_border=false)
 
 ---
 
-
-
-[![An image of @ayush1009208's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush1009208)](https://holopin.io/@ayush1009208)  
+[![An image of @ayush1009208's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush1009208)](https://holopin.io/@ayush1009208)
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=40&lines=I+am+a+Batman+fan;I+am+caffeine+addict;I+love+smell+of+petrol;I+hate+when+someone+calls+me+nerd" alt="Typing SVG" />
