@@ -10,11 +10,6 @@ Hi, I’m **@ayush1009208**  <br>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-5883a1277/)  
-<div align="center">
----
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -44,10 +39,6 @@ Hi, I’m **@ayush1009208**  <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayush1009208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush1009208&theme=dark&hide_border=false)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1009208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ---
