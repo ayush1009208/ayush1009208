@@ -1,6 +1,6 @@
 
 
-# 💫 About Me:
+# 💫 About Me:    [![](https://visitcount.itsvg.in/api?id=ayush1009208&icon=0&color=0)](https://visitcount.itsvg.in)
 Hi, I’m **@ayush1009208**  <br>  
 👀 I’m interested in **Full-stack Development** and exploring unique project ideas  <br>  
 🌱 I’m currently learning **Flask** and diving into **Next.js** and **SQLAlchemy**<br>  
@@ -51,7 +51,7 @@ Hi, I’m **@ayush1009208**  <br>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ayush1009208&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 [![An image of @ayush1009208's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush1009208)](https://holopin.io/@ayush1009208)  
 
